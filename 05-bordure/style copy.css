@@ -1,0 +1,51 @@
+html *{
+
+    box-sizing: border-box;
+}
+h1{
+    padding: 40px;
+    background-color: red;
+    border-top: 5px dashed salmon;
+    border-right: 10px double navy;
+    border-bottom: 35px ridge fuchsia;
+    border-left: none;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.558);
+    font-size: 70px;
+
+}
+
+div{
+
+    height: 200px;
+    width: 200px;
+    background-color: lightblue;
+    margin-bottom: 20px;
+    border: 10px solide fuchsia;
+    border-radius: 10px 20px 30px 40px;
+    box-shadow: 10px 10px 10px black;
+
+}
+.div1{
+    border-style: dotted;
+}
+ .div2{
+
+    border-style: dashed solid;
+ }
+
+ .div3{
+    border-style: double;
+ }
+ body{
+
+    Shorthand property for setting  .........
+ }
+
+
+
+
+
+
+
+
+

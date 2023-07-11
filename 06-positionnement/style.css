@@ -1,0 +1,22 @@
+.box{
+    width:150px;
+    height:150px;
+    margin:10px;
+    background-color:red;
+}
+
+
+.container{
+
+    width: 80%;
+    height:350px;
+    margin :0 auto;
+    background-color:burlywood;
+    display: flex;
+    justify-content: space-around; /* tres important a revoir */
+    align-items: flex-end;
+}
+.box-small{
+
+    align-self:center;
+}
