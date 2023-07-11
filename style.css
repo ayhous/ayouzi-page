@@ -1,0 +1,24 @@
+img{
+
+width: 200px;
+height: 200px;
+border-radius:70px;
+object-fit: cover;
+
+
+}
+
+div,p{
+
+    background-color: burlywood;
+    padding:30px;
+    margin:20px;
+    display:inline-block;
+}
+
+span{
+
+    font-weight: bold;
+    color:aqua;
+    padding: 10px 0;
+}
