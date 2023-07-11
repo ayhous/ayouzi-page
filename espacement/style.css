@@ -1,0 +1,13 @@
+div{
+    width: : 250px; /*pt,em,rem,%,vw*/
+    height: 350px;  /*pt,em,rem,%,vh*/
+    background-color:chartreuse ;
+    margin:100px ;
+    padding: 40px;
+
+    margin-left:200px;
+    padding:20px 10px 150 0; /* top right bottim left */
+    margin: 10px 40px 150px 0;/* top right bottom left */
+    margin:0 auto;
+
+}
